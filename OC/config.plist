@@ -410,9 +410,9 @@
 				<key>BundlePath</key>
 				<string>FakePCIID_Intel_HDMI_Audio.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Fixes HDMI audio out, but causes KP on restart</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -428,9 +428,9 @@
 				<key>BundlePath</key>
 				<string>FakePCIID.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Fixes HDMI audio out, but causes KP on restart</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/FakePCIID</string>
 				<key>MaxKernel</key>
