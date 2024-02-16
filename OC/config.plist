@@ -414,7 +414,7 @@
 				<key>Comment</key>
 				<string>Fixes HDMI audio out, but causes KP on restart</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -432,7 +432,7 @@
 				<key>Comment</key>
 				<string>Fixes HDMI audio out, but causes KP on restart</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/FakePCIID</string>
 				<key>MaxKernel</key>
