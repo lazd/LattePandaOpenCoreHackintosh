@@ -1162,7 +1162,7 @@
 				<key>SystemAudioVolume</key>
 				<data>cA==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 igfxonln=1 -igfxblt -v</string>
+				<string>keepsyms=1 igfxonln=1 -igfxblt -igfxdbeo -v</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
