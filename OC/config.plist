@@ -26,7 +26,7 @@
 				<key>Comment</key>
 				<string>Backlight control (defines PNLF device with a _UID of 16) - requires PNLF to XNLF rename</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-PNLF.aml</string>
 			</dict>
@@ -99,7 +99,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>UE5MRg==</data>
 				<key>Limit</key>
@@ -308,13 +308,13 @@
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-flags</key>
-				<data>hwEAAA==</data>
+				<data>mAAAAA==</data>
 				<key>framebuffer-con0-index</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-pipe</key>
-				<data>CQAAAA==</data>
+				<data>CAAAAA==</data>
 				<key>framebuffer-con0-type</key>
-				<data>AAgAAA==</data>
+				<data>AAIAAA==</data>
 				<key>framebuffer-con1-busid</key>
 				<data>BAAAAA==</data>
 				<key>framebuffer-con1-enable</key>
