@@ -324,7 +324,7 @@
 				<key>framebuffer-con1-index</key>
 				<data>AgAAAA==</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>CgAAAA==</data>
+				<data>CQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAQAAA==</data>
 				<key>framebuffer-con2-busid</key>
@@ -339,18 +339,6 @@
 				<data>CgAAAA==</data>
 				<key>framebuffer-con2-type</key>
 				<data>AAQAAA==</data>
-				<key>framebuffer-con3-busid</key>
-				<data>AAAAAA==</data>
-				<key>framebuffer-con3-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con3-flags</key>
-				<data>IAAAAA==</data>
-				<key>framebuffer-con3-index</key>
-				<data>/////w==</data>
-				<key>framebuffer-con3-pipe</key>
-				<data>AAAAAA==</data>
-				<key>framebuffer-con3-type</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
