@@ -301,10 +301,10 @@
 				<data>BQDAhw==</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con1-busid</key>
 				<data>AAAAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>hda-gfx</key>
@@ -1158,7 +1158,7 @@
 				<key>SystemAudioVolume</key>
 				<data>cA==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 igfxonln=1 -igfxblt -igfxdbeo -v</string>
+				<string>keepsyms=1 igfxonln=1 -v</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
