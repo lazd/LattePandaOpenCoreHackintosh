@@ -316,7 +316,7 @@
 				<key>framebuffer-con0-index</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-type</key>
-				<data>AAIAAA==</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-index</key>
@@ -328,11 +328,13 @@
 				<key>framebuffer-con2-index</key>
 				<data>AgAAAA==</data>
 				<key>framebuffer-con2-type</key>
-				<data>AAQAAA==</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con3-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con3-index</key>
 				<data>/////w==</data>
+				<key>framebuffer-con3-type</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>hda-gfx</key>
