@@ -50,7 +50,7 @@
 				<key>Comment</key>
 				<string>Create fake EC device, leave existing intact - requires EC _STA to XSTA renames</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
 			</dict>
@@ -69,7 +69,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>SF9FQw==</data>
 				<key>Limit</key>
@@ -189,7 +189,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>Il9TVEE=</data>
 				<key>Limit</key>
