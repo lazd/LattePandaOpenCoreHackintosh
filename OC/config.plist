@@ -297,20 +297,44 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>#framebuffer-con0-busid</key>
+				<data>BQAAAA==</data>
+				<key>#framebuffer-con1-busid</key>
+				<data>BAAAAA==</data>
+				<key>#framebuffer-con2-busid</key>
+				<data>BgAAAA==</data>
+				<key>#framebuffer-con3-busid</key>
+				<data>AAAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AADAhw==</data>
+				<data>BQDAhw==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
-				<data>wIcAAA==</data>
-				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>wIcABQ==</data>
+				<key>framebuffer-con0-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con0-index</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con0-type</key>
+				<data>AAIAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-index</key>
+				<data>AwAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAQAAA==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-index</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-con2-type</key>
+				<data>AAQAAA==</data>
+				<key>framebuffer-con3-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con3-index</key>
+				<data>/////w==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
