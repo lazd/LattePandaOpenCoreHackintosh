@@ -54,6 +54,14 @@
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Patch BAT0 _BIF method to have correct design capacity for LattePanda 2 Alpha 864s + CHUWI MiniBook Battery</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-BATP.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array/>
@@ -200,6 +208,36 @@
 				<data>AAAAAA==</data>
 				<key>Replace</key>
 				<data>IlhTVEE=</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+			</dict>
+			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
+				<key>Comment</key>
+				<string>Rename BAT0 _BIF to XBIF - requires SSDT-BATTP.aml</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>X0JJRg==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>WEJJRg==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
