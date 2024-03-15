@@ -460,42 +460,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>CPUFriend.kext</string>
-				<key>Comment</key>
-				<string>Enable turbo boost to higher frequencies</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/CPUFriend</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>CPUFriendDataProvider.kext</string>
-				<key>Comment</key>
-				<string>Enable turbo boost to higher frequencies</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>IOSkywalkFamily.kext</string>
 				<key>Comment</key>
 				<string>Requires OCLP but gets BCRM WiFi working</string>
@@ -1774,59 +1738,3 @@
 			<key>AppleSmcIo</key>
 			<false/>
 			<key>AppleUserInterfaceTheme</key>
-			<false/>
-			<key>DataHub</key>
-			<false/>
-			<key>DeviceProperties</key>
-			<false/>
-			<key>FirmwareVolume</key>
-			<true/>
-			<key>HashServices</key>
-			<false/>
-			<key>OSInfo</key>
-			<false/>
-			<key>PciIo</key>
-			<false/>
-			<key>UnicodeCollation</key>
-			<false/>
-		</dict>
-		<key>Quirks</key>
-		<dict>
-			<key>ActivateHpetSupport</key>
-			<false/>
-			<key>DisableSecurityPolicy</key>
-			<false/>
-			<key>EnableVectorAcceleration</key>
-			<true/>
-			<key>EnableVmx</key>
-			<false/>
-			<key>ExitBootServicesDelay</key>
-			<integer>0</integer>
-			<key>ForceOcWriteFlash</key>
-			<false/>
-			<key>ForgeUefiSupport</key>
-			<false/>
-			<key>IgnoreInvalidFlexRatio</key>
-			<false/>
-			<key>ReleaseUsbOwnership</key>
-			<true/>
-			<key>ReloadOptionRoms</key>
-			<false/>
-			<key>RequestBootVarRouting</key>
-			<true/>
-			<key>ResizeGpuBars</key>
-			<integer>-1</integer>
-			<key>ResizeUsePciRbIo</key>
-			<false/>
-			<key>ShimRetainProtocol</key>
-			<false/>
-			<key>TscSyncTimeout</key>
-			<integer>0</integer>
-			<key>UnblockFsConnect</key>
-			<false/>
-		</dict>
-		<key>ReservedMemory</key>
-		<array/>
-	</dict>
-</dict>
-</plist>
