@@ -58,9 +58,17 @@
 				<key>Comment</key>
 				<string>Patch BAT0 _BIF method to have correct design capacity for LattePanda 2 Alpha 864s + CHUWI MiniBook Battery</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-BATP.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Debug mode: Patch BAT0 _BIF method to have correct design capacity for LattePanda 2 Alpha 864s + CHUWI MiniBook Battery</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-BATD.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -1277,7 +1285,7 @@
 				<key>SystemAudioVolume</key>
 				<data>cA==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 igfxonln=1 amfi=0x80 -v</string>
+				<string>keepsyms=1 igfxonln=1 amfi=0x80 -v vsmcdbg smcdebug=0xff acpi_layer=0x08 acpi_level=0x02 msgbuf=1048576</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
