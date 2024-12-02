@@ -812,7 +812,7 @@
                     <key>Comment</key>
                     <string>V1.0.9</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/DebugEnhancer</string>
                     <key>MaxKernel</key>
@@ -1517,7 +1517,7 @@
                     <key>SystemAudioVolume</key>
                     <data>cA==</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 igfxonln=1 amfi=0x80 -v debug=0x12a -dbgenhdbg -dbgenhiolog msgbuf=15728640</string>
+                    <string>keepsyms=1 igfxonln=1 amfi=0x80</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1587,7 +1587,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02809404GUKN2RCB</string>
+                <string></string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1601,9 +1601,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookAir8,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02WCKYPJK78</string>
+                <string></string>
                 <key>SystemUUID</key>
-                <string>0EE4075B-F862-467A-AB45-B203E817A0CD</string>
+                <string></string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
