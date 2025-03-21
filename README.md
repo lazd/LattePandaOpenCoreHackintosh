@@ -1,4 +1,4 @@
-# LattePanda OpenCore Hackintosh
+# LattePanda 2 Alpha 864s OpenCore Hackintosh
 > Little board, big Mac energy
 
 # Installation
@@ -6,6 +6,8 @@
 This is a typical Hackintosh setup using OpenCore. If you're not familiar with Hackintoshing, please read [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
 
 ## Hardware setup
+
+This guide is for the LattePanda 2 Alpha 864s which uses the 8210Y / 8200Y CPU.
 
 1. Ensure you have a M.2 SSD installed. macOS will not install on the LattePanda's eMMC.
 
